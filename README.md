@@ -1,4 +1,12 @@
+Hi, I'm Bhavin Gohel
+A passionate Engineer || Frontend Developer
 
+Email Me 👉 ✉️ gohelbhavin19@gmail.com For Collaboration/Project or Anything Else. 
+
+🔭 I’m currently working on: Many responsive portfolio websites
+🌱 I’m currently learning: Full stack developer
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gohelbhavin19@gmail.com) 
 
